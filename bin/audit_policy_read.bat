@@ -1,1 +1,1 @@
-
+AuditPol /get /category:*
