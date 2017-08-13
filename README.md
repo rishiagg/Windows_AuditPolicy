@@ -1,5 +1,5 @@
 # Windows_AuditPolicy
-App that can monitor a current Audit Policy on Windows boxes.
+App that can monitor a current Audit Policy on Windows boxes..
 
 
 Batch File
