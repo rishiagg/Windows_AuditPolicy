@@ -1,4 +1,4 @@
-# Windows_AuditPolicy
+# Windows AuditPolicy Monitoring
 App that can monitor a current Audit Policy on Windows boxes..
 
 
